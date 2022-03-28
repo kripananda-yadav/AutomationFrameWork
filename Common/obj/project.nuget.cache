@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n988GzWV23R0xQvG3+eudHTCWhItCTY8bAfFYRXH7OQbv2tBmBmh90APWJ1qCc7+uX2BQbXQN046NcpvEWAeSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dsr\\source\\repos\\AssesmentDemoSite\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dsr\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dsr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dsr\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\dsr\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\dsr\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

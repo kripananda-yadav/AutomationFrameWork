@@ -1,0 +1,9 @@
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\bin\Debug\Commons.dll
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\bin\Debug\Commons.pdb
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\bin\Debug\WebDriver.dll
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\bin\Debug\WebDriver.Support.dll
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\obj\Debug\Commons.csproj.AssemblyReference.cache
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\obj\Debug\Commons.csproj.CoreCompileInputs.cache
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\obj\Debug\Commons.csproj.CopyComplete
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\obj\Debug\Commons.dll
+C:\Users\dsr\source\repos\AssesmentDemoSite\Commons\obj\Debug\Commons.pdb
